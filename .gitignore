@@ -1,0 +1,16 @@
+# 编译产物和缓存
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# IDE配置
+.vs/
+*.sln
+*.suo
+*.user
+*.db
+
+# 其他
+*.log
+*.tmp
